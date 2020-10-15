@@ -5,10 +5,10 @@ Totally a demo.
 ## How to use
 This is a basic **website** that can be rendered out through a browser. Open the file. Open it with Chrome. Or Firefox if you prefer. Get crazy.
 
-##Permissions
+## Permissions
 All of this is under the Greg Philbrook License. Description of license to come later. Basically, though, just use it. Please use it. I'm despreate.
 
-##Ways to Use
+## Ways to Use
 * Open it up and enjoy!
 * Use it as a background!
 * Show it to your dog!
